@@ -215,6 +215,10 @@ td{
         background-color: var(--White);
     }
 
+    figure img{
+        border-radius: 0;
+    }
+
     .container{
         display: contents;
     }
